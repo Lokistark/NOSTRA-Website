@@ -1,6 +1,6 @@
 ## 🔮 NOSTRA-PROJECT
 
-Nostra is a magical, responsive product showcase built for modern e-commerce experiences. It blends pixel-perfect layout, smooth animations, and playful UI elements to create a delightful browsing journey.
+Nostra is a pixel-perfect, responsive product showcase crafted for modern e-commerce experiences. It blends technical finesse with creative mischief — featuring animated heart icons, dynamic sale tags, and zoom-on-hover product cards that feel alive. Every detail is meticulously tuned to deliver a magical, mobile-friendly UI that delights users and developers alike.
 
 ## 📸 Preview
 
