@@ -12,21 +12,20 @@ Nostra is a magical, responsive product showcase built for modern e-commerce exp
 
 ## 📸 Preview
 
-![Nostra Screenshot](./preview.png)
+![Nostra Screenshot](https://github.com/Lokistark/NOSTRA-Website/blob/main/Screenshot%202025-10-25%20125603.png)
 
 ## 🛠️ Tech Stack
 
 - HTML5
 - CSS3 (Flexbox, Grid, Animations)
-- JavaScript (optional for interactivity)
-- [Optional] GSAP / Anime.js for advanced animations
+- JavaScript (For interactivity)
 
 ## 🔗 Project Files & Source Code
 
 - You can view the complete project files and source code on GitHub : https://github.com/Lokistark/Live-Message-Counter.git (clone-repo)
 
-- Nostra E-Commerce (Webpage) :  https://lokistark.github.io/Live-Message-Counter
+- Nostra E-Commerce (Webpage) :  https://lokistark.github.io/NOSTRA-Website/
 
-- 
+- Feel free to explore the clean, modular design ensures compatibility across devices, making it a practical and extensible foundation for fashion retail websites.
 
 
