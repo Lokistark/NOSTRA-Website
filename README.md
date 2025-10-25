@@ -1,4 +1,4 @@
-## 🔮 NOSTRA
+## 🔮 NOSTRA-PROJECT
 
 Nostra is a magical, responsive product showcase built for modern e-commerce experiences. It blends pixel-perfect layout, smooth animations, and playful UI elements to create a delightful browsing journey.
 
@@ -19,15 +19,19 @@ Nostra is a magical, responsive product showcase built for modern e-commerce exp
 - HTML5
 - CSS3 (Flexbox, Grid, Animations)
 - JavaScript (For interactivity)
-- 
+ 
 ## 📚 Categories
 
 This project fits into the following categories:
 
 - 🛍️ E-commerce UI – Product cards, sale tags, wishlist icons, and interactive shopping elements.
+  
 - 🎨 Frontend Design – Pixel-perfect layouts, responsive styling, and aesthetic consistency.
-- 🧩 CSS Animation & Interaction – Hover effects, zoom transitions, and playful UI feedback.
+  
+- 🧩 CSS Animation & Interaction – Hover effects, zoom transitions, and playful UI feedback
+  
 - 📱 Responsive Web Design – Mobile-friendly layouts using aspect ratios and flexible containers.
+  
 - 💡 Creative Development – Gamified coding rituals, magical themes, and expressive UI elements.
 
 
